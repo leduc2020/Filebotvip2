@@ -4,7 +4,7 @@
   "description": "Hi to là TramAnhDev",
   "main": "main.js",
   "scripts": {
-    "start": "node index",
+    "start": "node main",
     "login": "node login",
     "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
