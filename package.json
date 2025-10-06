@@ -94,7 +94,7 @@
   },
   "homepage": "https://github.com/dongdev06/miraiv2#readme",
   "devDependencies": {
-    "node": "^18.20.8"
+    "node": "^21.7.3"
   },
   "keywords": []
 }
